@@ -26,7 +26,7 @@ The techniques used to design high-quality system prompts that meet these requir
 ## Example System Prompt
 An example of a well-designed system prompt is shown in Figure 1, illustrating the modular architecture followed by all EVA-Tutor prompts.
 
-### Figure 1: System prompt for a programming assistant that converts pseudocode into code in any programming language and provides a brief analysis of its functionality.<img width="442" height="68" alt="image" src="https://github.com/user-attachments/assets/ed381e6d-93ba-41fb-a1fe-887baf07f338" />
+### Figure 1: System prompt for a programming assistant that converts pseudocode into code in any programming language and provides a brief analysis of its functionality.
 
 
 ---
