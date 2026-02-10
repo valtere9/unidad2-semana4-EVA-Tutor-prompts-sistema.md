@@ -5,9 +5,9 @@ One of the main concerns related to the use of LLM-based chatbots is the promoti
 
 Based on the above, a set of requirements is established that EVA-Tutor must meet:
 
-- Provides guidance but does not give direct answers
-- Professional handling of information
-- User-friendly interaction design
+- **Provides guidance but does not give direct answers**
+- **Professional handling of information**
+- **User-friendly interaction design**
 
 ## Prompt Engineering Strategies
 The techniques used to design high-quality system prompts that meet these requirements can be observed in Table 1.
